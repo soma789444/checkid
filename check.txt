@@ -1,1 +1,1 @@
-freepbx_script_tru
+freepbx_script_true
